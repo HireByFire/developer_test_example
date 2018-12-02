@@ -1,4 +1,4 @@
-# developer test example
+# Developer Test Example
 
 This repository serves as an example of how a company might want to create an assessment and share it on [HireByFire.net](HireByFire.net)
 
